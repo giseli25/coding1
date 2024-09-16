@@ -3,8 +3,6 @@
 /*const rotulo="natalya"
 let rotulo=12345;
 console.log(rotulo)
-
-
 myName = "Lindalva
 ";
 console.log( 'hello' +' '+ myName);*/
