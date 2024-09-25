@@ -7,9 +7,9 @@ myName = "Lindalva
 ";
 console.log( 'hello' +' '+ myName);*/
 
-const numero =25
-const numero1 = 24
-const soma = numero + numero1
-const subtracao = numero-numero1
-console.log( subtracao)
-console.log( soma )
+const numero = 25;
+const numero1 = 24;
+const soma = numero + numero1;
+const subtracao = numero - numero1;
+console.log(subtracao);
+console.log(soma);
